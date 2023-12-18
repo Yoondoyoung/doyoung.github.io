@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Test Posting
+title: Blogging start
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
-  This is a test.
+  This is my first step of blogging
 sitemap: false
 categories: blog daily
 ---
 
-##test
+##First post
+This is my first post.
